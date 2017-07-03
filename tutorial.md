@@ -11,5 +11,6 @@
 
 # Deleting Files
 
-* git rm -rf filename
+* git rm filename
+* git commit -m '...'
 * git push
