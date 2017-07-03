@@ -11,6 +11,6 @@
 
 # Deleting Files
 
-* git rm filename
+* git rm filename (from repo and filesystem) or git rm --cached filename (not from filesystem)
 * git commit -m '...'
 * git push
