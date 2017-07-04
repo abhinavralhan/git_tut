@@ -8,7 +8,8 @@
 
 * git branch // shows all branches
 * git checkout abc // will take you to branch abc
-* git merge branchname // will merge branchname to current branch
+* git merge branch_name // will merge branchname to current branch
+* git branch -d the_local_branch // deletes local branch
 
 # Pushing Files
 
