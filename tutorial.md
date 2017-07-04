@@ -3,6 +3,8 @@
 * git init
 * git remote add origin <"clone">
 * git status // shows tracked/untracked files
+* 1. git config credential.helper 'cache --timeout 7200' // to avoid entering password repeatedly
+  2. git push https://github.com/repo.git
 
 # Branching
 
