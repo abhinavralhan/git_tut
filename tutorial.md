@@ -2,6 +2,13 @@
 
 * git init
 * git remote add origin <"clone">
+* git status // shows tracked/untracked files
+
+# Branching
+
+* git branch // shows all branches
+* git checkout abc // will take you to branch abc
+* git merge branchname // will merge branchname to current branch
 
 # Pushing Files
 
