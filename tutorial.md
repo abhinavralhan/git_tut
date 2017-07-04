@@ -5,6 +5,17 @@
 * git status // shows tracked/untracked files
 * 1. git config credential.helper 'cache --timeout 7200' // to avoid entering password repeatedly
   2. git push https://github.com/repo.git
+* git flow init
+
+# Flow
+
+* git flow feature start (name)
+* git flow feature finish [-rk] (name)
+  -k = keep // use or else will delete feature
+* git flow feature publish (name)
+* git flow feature diff (name) // compares and shows changes not in develop
+* git flow feature -i rebase (name) //
+* git flow feature checkout (name)
 
 # Branching
 
